@@ -18,6 +18,7 @@ I'm a Third-year undergraduate student at KHU SWCON.<br>
 
 
 ## Ask me about 📫
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hws0120@khu.ac.kr)](mailto:hws0120@khu.ac.kr)<br>
 hws0120@khu.ac.kr<br>
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwRG)](https://github.com/anuraghazra/github-readme-stats)
