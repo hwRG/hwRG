@@ -1,19 +1,23 @@
 # Hi there 🙃
-Nice to meet you. I'm __HW__(hanwoo)<br>
-I'm a Third-year undergraduate student at KHU.
+Nice to meet you. I'm __HW__(hanwoo)
+I'm a Third-year undergraduate student at KHU SWCON.
 
 
-### I'm intersted in ⚡
+## I'm intersted in ⚡
 - Deep Learing-Based NLP
 - Speech(Synthesis, Recognition.. etc).
 
-### I’m currently learning 🌱
+## I’m currently learning 🌱
 - Deep Learning-Based NLP<br>
 - Operating server Using __Docker__
-- 
 
-### I'm currently writing a blog.
+### I'm currently writing a blog about my study
 <https://hwrg.github.io/>
+
+## Ask me about 📫
+- hws0120@khu.ac.kr
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwRG)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hwRG/hwRG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
