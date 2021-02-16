@@ -4,8 +4,8 @@ I'm a Third-year undergraduate student at KHU SWCON.<br>
 
 
 ## I'm intersted in
-- Deep Learing-Based NLP
-- Speech(Synthesis, Recognition.. etc).<br>
+- Speech(Synthesis, Recognition.. etc)<br>
+- Deep Learing-Based NLP<br>
 
 
 ## I’m currently learning
