@@ -5,11 +5,11 @@ I'm a Third-year undergraduate student at KHU SWCON.<br>
 
 ## I'm intersted in
 - Speech(Synthesis, Recognition.. etc)<br>
-- Deep Learing-Based NLP<br>
+- Video Summarization<br>
 
 
 ## I’m currently learning
-- Deep Learning-Based NLP<br>
+- Video Summarization Paper Study<br>
 - Operating server Using Docker<br>
 
 
