@@ -5,7 +5,7 @@ I'm a Third-year undergraduate student at KHU SWCON.<br>
 
 ## I'm intersted in
 - Speech(Synthesis, Recognition.. etc)<br>
-- CI/CD & DevOps<br>
+- Container technology<br>
 
 ## I’m currently learning about
 - Operating server using Docker<br>
