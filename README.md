@@ -1,6 +1,6 @@
 # Hi there 🙃
 Glad to see you. I'm __HW__(hanwoo)<br>
-I'm a Third-year undergraduate student at KHU SWCON.<br>
+I'm a Fourth-Year undergraduate student at KHU SWCON.<br>
 
 
 ## I'm intersted in
