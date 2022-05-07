@@ -1,18 +1,18 @@
 # Hi there 🙃
-Glad to see you. I'm __HW__(hanwoo)<br>
+Glad to see you. I'm Hanwoo<br>
 I'm a Fourth-Year undergraduate student at KHU SWCON.<br>
 
 
 ## I'm intersted in
-- Speech(Synthesis, Recognition.. etc)<br>
+- Speech Synthesize<br>
 - Container technology<br>
 
 ## I’m currently learning about
+- Develop my own Speech Synthesis model (Please refer to __FastSpeech2-Pytorch-Korean-Multi-Speaker__ repos)<br>
 - Operating server using Docker<br>
-- Develop my own Speech Synthesis model<br>
 - Algorithm Study (DP, Graph etc..) https://solved.ac/profile/hws0120
 
-## I'm currently working as an intern at Ahnlab (2021.06.28 ~ ) <br> 
+## I worked as an intern at Ahnlab (2021.06.28 ~ 2021.12.31) <br> 
 - Convergence Security Team
 - Programming Assist & Test Development<br>
 
