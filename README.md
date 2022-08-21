@@ -8,7 +8,8 @@ I'm a Fourth-Year undergraduate student at KHU SWCON.<br>
 - Container technology<br>
 
 ## I’m currently learning about
-- Develop my own Speech Synthesis model (Please refer to __FastSpeech2-Pytorch-Korean-Multi-Speaker__ repos)<br>
+- Develop my own Speech Synthesis model 
+(Please refer to __FastSpeech2-Pytorch-Korean-Multi-Speaker__ repos)<br>
 - Operating server using Docker<br>
 - Algorithm Study (DP, Graph etc..) https://solved.ac/profile/hws0120
 
