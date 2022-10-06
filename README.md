@@ -13,10 +13,6 @@ I'm a Fourth-Year undergraduate student at KHU SWCON.<br>
 - Operating server using Docker<br>
 - Algorithm Study (DP, Graph etc..) https://solved.ac/profile/hws0120
 
-## I worked as an intern at Ahnlab (2021.06.28 ~ 2021.12.31) <br> 
-- Convergence Security Team
-- Programming Assist & Test Development<br>
-
 ## I'm writing a blog
 <https://hwrg.github.io/><br><br>
 
