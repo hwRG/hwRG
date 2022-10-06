@@ -9,7 +9,7 @@ I'm a Fourth-Year undergraduate student at KHU SWCON.<br>
 
 ## I’m currently learning about
 - Develop my own Speech Synthesis model 
-(Please refer to [![__End-to-End-TTS-Fine-Tune__](https://github.com/hwRG/End-to-End-TTS-Fine-Tune)] repos)<br>
+(Please refer to [__End-to-End-TTS-Fine-Tune__](https://github.com/hwRG/End-to-End-TTS-Fine-Tune) repos)<br>
 - Operating server using Docker<br>
 - Algorithm Study (DP, Graph etc..) https://solved.ac/profile/hws0120
 
