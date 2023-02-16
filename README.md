@@ -1,11 +1,11 @@
 # Hi there 🙃
 Glad to see you. I'm Hanwoo<br>
-I'm a Fourth-Year undergraduate student at KHU SWCON.<br>
+I'm a Speech AI Engineer at AITRICS (Virtual Human Division).<br>
 
 
 ## I'm intersted in
-- Speech Synthesize<br>
-- Container technology<br>
+- Speech Synthesis<br>
+- Container Technology<br>
 
 ## I’m currently learning about
 - Develop my own Speech Synthesis model 
