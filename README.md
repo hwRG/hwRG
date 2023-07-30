@@ -1,5 +1,5 @@
 # Hi there 🙃
-I work at AITRICS Virtual Human Team as a Speech AI Engineer now in seoul. <br>
+I work at AITRICS Virtual Human Team as a Speech AI Engineer. <br>
 I am now woring on the engineering and research of Speech Synthesis. (Emotional, Zero-shot, ..) 
 
 ## News
