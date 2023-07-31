@@ -4,7 +4,7 @@ I am now working on the engineering and research of Speech Synthesis. (Emotional
 
 ## News
 - 2023.05 : My **[ZET-Speech](https://arxiv.org/abs/2305.13831)** paper is accepted by INTERSPEECH 2023 🎉 **[[Demo](https://zet-speech.github.io/ZET-Speech-Demo/)]** 
-- 2022.11 : My **[Few-Shot TTS Project](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224486&nodeId=NODE11224486&medaTypeCode=185005&language=ko_KR&hasTopBanner=true)** paper is accepted as an excellence award by KSC 2022 🎉
+- 2022.11 : My **[Few-shot TTS Project](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224486&nodeId=NODE11224486&medaTypeCode=185005&language=ko_KR&hasTopBanner=true)** paper is accepted as an excellence award by KSC 2022 🎉
 
 ## Interests
 - Speech Synthesis
